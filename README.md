@@ -6,6 +6,10 @@ A Node.js-based automated comment bot for the pump.fun platform, built on Solana
 
 - Telegram: [Pioneer](https://t.me/hi_3333)
 
+## Video
+
+https://x.com/TakhiSol/status/1963425063904117084
+
 ## 🚀 Features
 
 - **Automated Wallet Generation**: Creates new Solana keypairs for each session
