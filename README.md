@@ -10,6 +10,8 @@ A Node.js-based automated comment bot for the pump.fun platform, built on Solana
 
 https://x.com/TakhiSol/status/1963425063904117084
 
+https://x.com/TakhiSol/status/1963427159235506270
+
 ## 🚀 Features
 
 - **Automated Wallet Generation**: Creates new Solana keypairs for each session
